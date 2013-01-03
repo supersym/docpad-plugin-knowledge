@@ -1,0 +1,27 @@
+{
+  "name": "docpad-plugin-knowledge",
+  "preferGlobal": "false",
+  "version": "1.0.0",
+  "author": "Rob Jentzema <rob.jentzema@googlemail.com>",
+  "description": "A plugin for the DocPad site rendering and mash-up framework or content management system, utilizing the power of freebase, the open knowledge database.",
+  "keywords": [
+    "docpad",
+    "docpad-plugin",
+    "node",
+    "coffee-script",
+    "freebase",
+    "mql"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supersym/docpad-plugin-knowledge"
+  },
+  "dependencies": {
+    "docpad": "6.x",
+    "freebase": "2.1.x"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
